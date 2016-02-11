@@ -11,7 +11,6 @@ Be sure to create the file `lmgtfy_bot.conf` and set it as follows:
 [DEFAULTS]
 bot_token = 1234567890EXAMPLE0987654321
 google_client = 1234567890EXAMPLE0987654321
-min_url_size = 5
 ```
 
 Then run:
