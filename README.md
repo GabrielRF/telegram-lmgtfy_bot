@@ -1,4 +1,5 @@
 # Telegram LMGTFY_bot
+### Let Me Google That For You Bot
 
 Bot available at [telegram.me/lmgtfy_bot](http://telegram.me/lmgtfy_bot)
 
