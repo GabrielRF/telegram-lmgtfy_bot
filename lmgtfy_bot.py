@@ -7,7 +7,7 @@ from telebot import types
 
 def long_url(text):
     text = urllib.parse.quote_plus(text)
-    long_url = 'http://lmgtfy.com/?q='+ text
+    long_url = 'https://lmgtfy.com/?q='+ text
     return long_url
 
 def short_url(url):
